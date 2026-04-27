@@ -1,1 +1,1 @@
-# Cybersecurity-notes
+# Tryhackme Notes
